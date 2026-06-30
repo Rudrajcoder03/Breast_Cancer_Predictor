@@ -1,5 +1,12 @@
 # 🩺 Breast Cancer Detection using Deep Learning
 
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange?logo=tensorflow)
+![Streamlit](https://img.shields.io/badge/Streamlit-Web_App-red?logo=streamlit)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-yellow?logo=scikitlearn)
+![License](https://img.shields.io/badge/License-Educational-green)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 An AI-powered web application that predicts whether a breast tumor is **Benign** or **Malignant** using a trained Deep Learning model. The application is built with **TensorFlow/Keras** and deployed using **Streamlit** to provide an easy-to-use interface for users.
 
 > **⚠️ Disclaimer:** This project is for educational purposes only and should not be used as a substitute for professional medical diagnosis.
