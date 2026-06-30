@@ -77,13 +77,13 @@ Features:
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/Breast-Cancer-Detection.git
+git clone https://github.com/Rudrajcoder03/Breast_Cancer_Predictor.git
 ```
 
 ### 2️⃣ Navigate to the Project Folder
 
 ```bash
-cd Breast-Cancer-Detection
+cd Breast_Cancer_Detection
 ```
 
 ### 3️⃣ Install Required Libraries
@@ -118,21 +118,15 @@ streamlit run app.py
 
 ### 🏠 Home Page
 
-> Add a screenshot here.
-
----
+![Home Page](assets/home.png)
 
 ### 📝 Input Form
 
-> Add a screenshot here.
-
----
+![Input Form](assets/input.png)
 
 ### 📊 Prediction Result
 
-> Add a screenshot here.
-
----
+![Prediction Result](assets/prediction_result.png)
 
 ## 📈 Future Improvements
 
