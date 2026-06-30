@@ -1,0 +1,49 @@
+/* Main App */
+.main {
+    background-color: #F5F9FF;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"] {
+    background-color: #DCEEFF;
+}
+
+/* Headings */
+h1 {
+    color: #1565C0;
+    font-size: 48px;
+    font-weight: bold;
+}
+
+h2 {
+    color: #1976D2;
+}
+
+h3 {
+    color: #1E88E5;
+}
+
+/* Paragraphs */
+p {
+    color: #333333;
+    font-size: 18px;
+}
+
+.stButton > button {
+    width: 100%;
+    background-color: #1E88E5;
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 12px;
+    border-radius: 10px;
+    border: none;
+    transition: 0.3s;
+}
+
+.stButton > button:hover {
+    background-color: #1565C0;
+    color: white;
+}
+
+
