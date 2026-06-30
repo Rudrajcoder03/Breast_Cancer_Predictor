@@ -118,15 +118,15 @@ streamlit run app.py
 
 ### 🏠 Home Page
 
-![Home Page](assets/home.png)
+![Home Page](home.png)
 
 ### 📝 Input Form
 
-![Input Form](assets/input.png)
+![Input Form](input.png)
 
 ### 📊 Prediction Result
 
-![Prediction Result](assets/prediction_result.png)
+![Prediction Result](prediction_result.png)
 
 ## 📈 Future Improvements
 
